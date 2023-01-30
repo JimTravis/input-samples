@@ -1,8 +1,6 @@
-Warning: This sample is currently outdated and you should reference the Java version instead.
-============================================================================================
-
 Android AutofillFramework Sample (Kotlin)
 =========================================
+<strong>Deprecated</strong>: This sample is currently outdated and you should reference the Java version instead.
 
 This sample demonstrates the use of the Autofill Framework. It includes implementations of client
 Activities with views that should be autofilled, and a Service that can provide autofill data to
